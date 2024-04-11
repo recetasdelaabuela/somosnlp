@@ -15,7 +15,7 @@ import logging
 # Configuración de la codificación
 sys.stdout.reconfigure(encoding='utf-8')
 
-together.api_key = "04c4c8b5d4fc108e63683099f16e32fb338e9e05916ef3511e7910f60653a1ae" # Replace with your Together API Key
+together.api_key = "xxx" # Replace with your Together API Key
 
 def eliminar_duplicados(nombre_archivo):
     try:
